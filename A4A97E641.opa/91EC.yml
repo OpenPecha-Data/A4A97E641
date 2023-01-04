@@ -1,0 +1,67 @@
+segment_sources:
+  IE35CC764:
+    type: origin_type
+    relation: translation
+    base: '7691'
+    lang: en
+  ICE9AC649:
+    type: origin_type
+    relation: translation
+    base: A0B4
+    lang: de
+  I3D309202:
+    type: origin_type
+    relation: translation
+    base: 0F77
+    lang: es
+  I2C6B7AAD:
+    type: origin_type
+    relation: translation
+    base: 0A55
+    lang: fr
+  I608DCC3C:
+    type: origin_type
+    relation: translation
+    base: FD53
+    lang: nl
+  IE096BEFE:
+    type: origin_type
+    relation: translation
+    base: 0EB3
+    lang: bo
+segment_pairs:
+  01d3d42e017f4176bada2b5d91d0b4b0:
+    IE35CC764: 242bf98bb9644fe09d6ca84b408beb91
+    ICE9AC649: 3cd7618c5abe451a839c8d61be77db9e
+    I3D309202: 1d278f2d2d6d4e59b44f21e6ef71da37
+    I2C6B7AAD: 20f9f662aafa43619c7bce2f0471d88d
+    I608DCC3C: 29c972b48d0b4ca08b17c5afa0fb4a0f
+    IE096BEFE: e0918fbe339644aa98942d5372c37619
+  d3288f6ccb7f466a8a52ce32cd2dc1e3:
+    IE35CC764: cac25f6fd59f44a1a879a7f51a1990a5
+    ICE9AC649: e7fac437af944408a639622b5b6efbd4
+    I3D309202: 5da65396b7bb4e75993a45a5e83e7900
+    I2C6B7AAD: b1742b10de924f428ef089ddb2f8ae55
+    I608DCC3C: d9d1542a8299480ea345c854e358177d
+    IE096BEFE: 4f7f8500db9a4721b1f11f44a41c2751
+  8050390ecaa0404999b4234077869603:
+    IE35CC764: c83f519189564cd999fc050c81653354
+    ICE9AC649: ace1ad0d018c410ca454e83c14800535
+    I3D309202: c3929331f0464b09820245085101f16d
+    I2C6B7AAD: 9208e23196d94a27a7ab11aa375e3b76
+    I608DCC3C: 27776bb87f2d4084abdeacb6e66f94b0
+    IE096BEFE: 07aec55fea0d4e199ebe5ea768d45709
+  94f1836c3dc645f89f4ddf0ba537a80d:
+    IE35CC764: 7735d73613db41baae6bb625e18700d3
+    ICE9AC649: 6161ebc1de4a4cf9b0f5e66ba373432a
+    I3D309202: c26de1543fd04f769a259144a03cff36
+    I2C6B7AAD: 25402ce1a3194a75b38c8bd06be02651
+    I608DCC3C: dd72d41c6a424b28a8e13527d8274031
+    IE096BEFE: 83d83a98e8f54236b343a65374b7aa4a
+  cdf58a2e4cb14a58a73ab6487160ecab:
+    IE35CC764: 108e7e74a48a460abf10d36bb8358e2f
+    ICE9AC649: 2f5c0539c0d44847bf30ae71fd78c7ff
+    I3D309202: 92ac46babf994ea595215eb4f1ad36f3
+    I2C6B7AAD: a4845e4ca678488993a5c9d7ef66731d
+    I608DCC3C: 3d32a2d53b1046ab96913aa8ef671809
+    IE096BEFE: 65ac1b684ff14894a7369e33a5f74080
